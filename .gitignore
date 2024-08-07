@@ -1,0 +1,13 @@
+# Ignore Node.js build artifacts
+.next/
+node_modules/
+
+# Ignore Vercel deployment directory
+.vercel/
+
+# Ignore IDE or editor specific files
+.idea/
+.vscode/
+
+# Ignore log files
+*.log
